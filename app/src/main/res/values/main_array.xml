@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Удочки</item>
+        <item>Катушки</item>
+        <item>Прикормки</item>
+        <item>Наживка</item>
+        <item>Костюмы</item>
+    </string-array>
+
+    <string-array name="udochki">
+        <item>Фидер|uda1.png|uda1.html</item>
+        <item>Поплавочная|uda2.png|uda2.html</item>
+    </string-array>
+
+    <string-array name="katushki">
+        <item>Катушка(20-метровая)|katuxa1.png|katuxa1.html</item>
+        <item>Катушка(50-метровая)|katuxa2.png|katuxa2.html</item>
+    </string-array>
+
+    <string-array name="prikormki">
+        <item>Прикормка(для белой рыбы)|prikormka1.png|prikormka1.html</item>
+        <item>Прикормка(для карпа)|prikormka2.png|prikormka2.html</item>
+    </string-array>
+
+    <string-array name="nazhivka">
+        <item>Мотыль|motil.png|motil.html</item>
+        <item>Опарыш|aparish.png|aparish.html</item>
+    </string-array>
+
+    <string-array name="kostumi">
+        <item>Зимний костюм|kostum1.png|kostum1.html</item>
+        <item>Зимний костюм(более теплый)|kostum2.png|kostum2.html</item>
+    </string-array>
+</resources>
